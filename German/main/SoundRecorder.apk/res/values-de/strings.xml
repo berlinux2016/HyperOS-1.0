@@ -739,7 +739,7 @@
     <string name="uninstall_warning_content">Recorder ist eine System-App. Nach der Deinstallation können Sie keine Audio- und Sprachanrufe aufnehmen und umwandeln.</string>
     <string name="uninstall_warning_title">Recorder deinstallieren?</string>
     <string name="unknown_error_info">Unbekannter Fehler</string>
-    <string name="update_email_address_dialog_message">Sie müssen Ihre Identität verifizieren, bevor Sie die Wiederherstellungs-E-Mail aktualisieren.</string>
+    <string name="update_email_address_dialog_message">Sie müssen Ihre Identität bestätigen, bevor Sie die Wiederherstellungs-E-Mail aktualisieren.</string>
     <string name="update_email_address_dialog_title">Wiederherstellungs-E-Mail aktualisieren</string>
     <string name="upload_log_failed">Protokolle senden nicht möglich</string>
     <string name="usage_description">Audio umwandeln und Elemente mit der Cloud synchronisieren</string>

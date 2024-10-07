@@ -3692,7 +3692,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können drahtlos aufgeruf
     <string name="gesture_preference_title">Gesten</string>
     <string name="gesture_prevent_ringing_screen_title">Klingeln verhindern</string>
     <string name="gesture_prevent_ringing_sound_title">Verknüpfung, um Klingeln zu verhindern</string>
-    <string name="gesture_prevent_ringing_title">Power &amp; Lautstärke hoch gleichzeitig drücken</string>
+    <string name="gesture_prevent_ringing_title">Power &amp; Lauter-Taste gleichzeitig drücken</string>
     <string name="gesture_setting_off">Aus</string>
     <string name="gesture_setting_on">An</string>
     <string name="gesture_settings_activity_title">Empfindlichkeit Gestensteuerung</string>
@@ -4842,7 +4842,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="long_press_power_key_half_of_second">Power-Taste 0,5 Sek gedrückt halten, um Google Assistant einzuschalten</string>
     <string name="long_press_power_key_half_second">Power-Taste %s Sek gedrückt halten</string>
     <string name="long_press_power_key_tips">&lt;Data>Power-Taste lange drücken ist &lt;font color=\"#999999\">schneller und komfortabler&lt;/font>&lt;/Data></string>
-    <string name="long_press_volume_down">Lautstärke runter lange drücken</string>
+    <string name="long_press_volume_down">Leiser-Taste lange drücken</string>
     <string name="lost_internet_access_cancel">Auf WLAN bleiben</string>
     <string name="lost_internet_access_persist">Nicht mehr anzeigen</string>
     <string name="lost_internet_access_switch">Auf mobil umstellen</string>
@@ -5173,8 +5173,8 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="miheadset_key_config_trans_summary">Externe Geräusche erlauben</string>
     <string name="miheadset_key_config_triple_left">Linken Kopfhörer dreifach antippen</string>
     <string name="miheadset_key_config_triple_right">Rechten Kopfhörer dreifach antippen</string>
-    <string name="miheadset_key_config_volume_down">Lautstärke runter</string>
-    <string name="miheadset_key_config_volume_up">Lautstärke hoch</string>
+    <string name="miheadset_key_config_volume_down">Leiser-Taste</string>
+    <string name="miheadset_key_config_volume_up">Lauter-Taste</string>
     <string name="miheadset_key_config_volume_up_down">Lautstärke einstellen</string>
     <string name="miheadset_last_version">Firmware ist aktuell</string>
     <string name="miheadset_local_ota">Aktualisieren</string>
@@ -5185,7 +5185,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="miheadset_longpress_temple_when_idle">Gedrückt halten, wenn nicht telefoniert wird</string>
     <string name="miheadset_low_latency">Geringe Latenzzeit</string>
     <string name="miheadset_manual">Über das Gerät</string>
-    <string name="miheadset_minus">Lautstärke runter</string>
+    <string name="miheadset_minus">Leiser-Taste</string>
     <string name="miheadset_moreSettingsInAi">Weitere Einstellungen</string>
     <string name="miheadset_multi_connect_mode_summary">Mehr als ein Gerät gleichzeitig anschließen</string>
     <string name="miheadset_network_not_available">Netzwerkeinstellungen prüfen und erneut versuchen</string>
@@ -5197,7 +5197,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="miheadset_phone_connected_hangup">Anruf annehmen oder beenden</string>
     <string name="miheadset_phone_play_pause">Abspielen oder Pause</string>
     <string name="miheadset_play_pause">Abspielen/Pause</string>
-    <string name="miheadset_plus">Lautstärke hoch</string>
+    <string name="miheadset_plus">Lauter-Taste</string>
     <string name="miheadset_preferences">Voreinstellungen</string>
     <string name="miheadset_rename">Umbenennen</string>
     <string name="miheadset_rename_device">Umbenennen</string>
@@ -6344,7 +6344,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="power_menu_long_press_for_power_menu_title">Power-Menü</string>
     <string name="power_menu_none">Keinen Inhalt anzeigen</string>
     <string name="power_menu_power_prevent_ringing_hint">Klingeln verhindern:\nEine Lautstärketaste für die Verknüpfung drücken</string>
-    <string name="power_menu_power_volume_up_hint">Power-Menü:\nGleichzeitig Power-Taste und Lautstärke hoch drücken</string>
+    <string name="power_menu_power_volume_up_hint">Power-Menü:\nGleichzeitig Power-Taste und Lauter-Taste drücken</string>
     <string name="power_menu_setting_name">Power-Taste gedrückt halten</string>
     <string name="power_menu_summary_long_press_for_assistant">Zugriff digitaler Assistenten</string>
     <string name="power_menu_summary_long_press_for_power_menu">Zugriff Power-Menü</string>
@@ -6389,7 +6389,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="pref_show_lunar_calendar_title">Traditionellen chin. Kalender am Sperrbildschirm anzeigen.</string>
     <string name="pref_title_network_details">Netzwerkdetails</string>
     <string name="pref_title_update_notification">Benachrichtigungen Datennutzung</string>
-    <string name="pref_volume_launch_camera_summary">Lautstärke runter zweimal drücken, um Kamera zu starten</string>
+    <string name="pref_volume_launch_camera_summary">Leiser-Taste zweimal drücken, um Kamera zu starten</string>
     <string name="pref_volume_launch_camera_title">Kamera starten</string>
     <string name="pref_volume_wake_summary">Lautstärketasten drücken weckt das Telefon auf</string>
     <string name="pref_volume_wake_title">Mit Lautstärketasten aufwecken</string>
@@ -7982,7 +7982,7 @@ Sie können jeweils nur ein Gesicht einrichten. Um ein weiteres Gesicht hinzuzuf
     <string name="sos_area_code_settings_hint">Vorwahl eingeben</string>
     <string name="sos_area_code_settings_summary">Vorwahl der Telefonnummer Ihres Notfallkontakts manuell einstellen</string>
     <string name="sos_area_code_settings_title">Vorwahl einstellen</string>
-    <string name="sos_navigation_guide_message">Zur Navigation die Taste Lautstärke runter drücken, dann die Taste Lautstärke hoch drücken und gedrückt halten, um die Auswahl zu bestätigen</string>
+    <string name="sos_navigation_guide_message">Zur Navigation die Leiser-Taste drücken, dann die Lauter-Taste drücken und gedrückt halten, um die Auswahl zu bestätigen</string>
     <string name="sos_navigation_guide_title">Lautstärketasten im Notruf-SOS-Modus</string>
     <string name="sos_phone_call_privacy_dialog_message">"Um Ihre Notfallkontakte anzurufen und SOS-Aufnahmen abzuspielen, benötigt diese App folgende Berechtigungen:
 • Telefonieren

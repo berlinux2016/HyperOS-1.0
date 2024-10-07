@@ -133,7 +133,7 @@
     <string name="dock_tip_splitscreen_portrait_drag">Leiste vertikal ziehen, um die Positionen der beiden App-Fenster zu tauschen.</string>
     <string name="dock_tip_splitscreen_portrait_float">Halten und nach links oder rechts auf dem Bildschirm ziehen, um zu einem Popup zu wechseln.</string>
     <string name="double_click_power_key">Power-Taste doppelt drücken</string>
-    <string name="double_click_volume_down_when_lock">Lautstärke runter doppelt drücken, wenn der Bildschirm gesperrt ist</string>
+    <string name="double_click_volume_down_when_lock">Leiser-Taste doppelt drücken, wenn der Bildschirm gesperrt ist</string>
     <string name="double_knock">Knöchel-Doppeltipp</string>
     <string name="dump_log">Problembezogene Protokolle abrufen</string>
     <string name="eighthours">8 Std</string>
@@ -231,7 +231,7 @@
     <string name="key_btn_space">Leertaste</string>
     <string name="key_combination_power_back">Power + Zurück</string>
     <string name="key_combination_power_menu">Power + Menü</string>
-    <string name="key_combination_power_volume_down">Lautstärke runter + Power</string>
+    <string name="key_combination_power_volume_down">Leiser-Taste + Power</string>
     <string name="key_none">Nichts</string>
     <string name="keyboard_connect_failed">Tastatur nicht verbunden. Erneut verbinden.</string>
     <string name="keyboard_identity_reject_confirm">Verstanden</string>
@@ -288,7 +288,7 @@
     <string name="long_press_menu_key_when_lock">Menü-Taste am Sperrbildschirm gedrückt halten</string>
     <string name="long_press_power_key">Power-Taste gedrückt halten</string>
     <string name="long_press_power_key_half_second">Power-Taste für %ss gedrückt halten</string>
-    <string name="long_press_volume_down">Lautstärke runter gedrückt halten</string>
+    <string name="long_press_volume_down">Leiser-Taste gedrückt halten</string>
     <string name="magic_window_toast">App-Multiplikator aktiviert</string>
     <string name="makewishes">Geburtstagswunsch</string>
     <string name="maml_component_customization_title">Einstellungen</string>

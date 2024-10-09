@@ -94,7 +94,7 @@
     <string name="cloud_app_current_device">Aktuelles Gerät</string>
     <string name="cloud_app_dont_restore">Als neues Gerät verwenden</string>
     <string name="cloud_app_no_data">Keine vorherigen App-Installationen gefunden</string>
-    <string name="cloud_app_no_network">Netzwerkverbindung nicht möglich</string>
+    <string name="cloud_app_no_network">Netzwerkverbindung fehlgeschlagen</string>
     <string name="cloud_app_other_devices">Andere Geräte</string>
     <string name="cloud_app_restore_app_and_data">Gerät einrichten</string>
     <string name="cloud_app_restore_data">Personenbezogene Daten und vorherige App-Installationen werden automatisch auf Ihrem Gerät wiederhergestellt</string>

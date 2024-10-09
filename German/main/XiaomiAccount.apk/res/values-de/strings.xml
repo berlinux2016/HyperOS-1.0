@@ -611,7 +611,7 @@
     <string name="passport_login_with_sns">Andere Arten der Anmeldung</string>
     <string name="passport_logout_account">Abmelden</string>
     <string name="passport_message_dialog_title">SMS mit Bestätigungscodes</string>
-    <string name="passport_mi_account_first_title">Wir richten automatisch ein Konto ein, wenn Sie Ihre Rufnummer zum ersten Mal verwenden.</string>
+    <string name="passport_mi_account_first_title">Bei erstmaliger Verwendung deiner Rufnummer erstellen wir automatisch ein Konto.</string>
     <string name="passport_mi_account_title">Mit Xiaomi-Konto anmelden</string>
     <string name="passport_network_error">Ein Netzwerkfehler ist aufgetreten. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
     <string name="passport_network_error_hint">URL prüfen und erneut versuchen, oder URL kopieren und in Ihrem Browser öffnen.</string>
@@ -690,10 +690,10 @@
     <string name="passport_sms_send_success">Gesendet</string>
     <string name="passport_sns_bind_limit">Zu viele Versuche. Andere Arten der Anmeldung versuchen.</string>
     <string name="passport_system_error">System ist ausgelastet. Etwas warten und erneut versuchen.</string>
-    <string name="passport_talkback_image_captcha">BildBestätigungscode</string>
-    <string name="passport_talkback_switch_image_captcha">Zum BildBestätigungscode wechseln</string>
-    <string name="passport_talkback_switch_voice_captcha">Zum SprachBestätigungscode wechseln</string>
-    <string name="passport_talkback_voice_captcha">SprachBestätigungscode abspielen</string>
+    <string name="passport_talkback_image_captcha">Bildbestätigungscode</string>
+    <string name="passport_talkback_switch_image_captcha">Zum Bildbestätigungscode wechseln</string>
+    <string name="passport_talkback_switch_voice_captcha">Zum Sprachbestätigungscode wechseln</string>
+    <string name="passport_talkback_voice_captcha">Sprachbestätigungscode abspielen</string>
     <string name="passport_ticket_login_select_sim_card_cancel">Abbrechen</string>
     <string name="passport_ticket_send_by_second">In %d senden</string>
     <string name="passport_title_reg">Konto erstellen</string>
@@ -789,7 +789,7 @@
     <string name="request_use_gallery_message">Xiaomi-Konto den Galeriezugriff erlauben?</string>
     <string name="request_use_gallery_title">Galeriezugriff</string>
     <string name="request_use_writing_clipboard_message">Um Ihre Xiaomi-Konto-ID zu kopieren, erlauben Sie Xiaomi-Konto, Elemente in der Zwischenablage zu speichern.</string>
-    <string name="resend_email_reach_limit_message">Zu viele Verifizierungs-E-Mails wurden angefordert. Prüfen Sie, ob sich die Verifizierungs-E-Mail im Spam-Ordner des Posteingangs befindet.</string>
+    <string name="resend_email_reach_limit_message">Zu viele Bestätigungs-E-Mails wurden angefordert. Prüfen Sie, ob sich die Bestätigungs-E-Mail im Spam-Ordner des Posteingangs befindet.</string>
     <string name="restart_action">Neu beginnen</string>
     <string name="restart_phone_bind_message">Empfang von SMS kann einige Zeit dauern. Trotzdem neu beginnen?</string>
     <string name="restart_phone_bind_title">Wiederherstellungstelefon ändern</string>

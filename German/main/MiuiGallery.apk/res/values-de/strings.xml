@@ -781,7 +781,7 @@ Die besten Fotos werden automatisch ausgewählt. Du kannst mehr Fotos manuell hi
     <string name="passport_login_with_sns">Andere Arten der Anmeldung</string>
     <string name="passport_mi_account_first_title">Bei erstmaliger Verwendung deiner Rufnummer erstellen wir automatisch ein Konto.</string>
     <string name="passport_network_error_hint">URL prüfen und erneut versuchen, oder URL kopieren und in deinem Browser öffnen.</string>
-    <string name="passport_network_timeout">Netzwerkverbindung nicht möglich. Erneut versuchen.</string>
+    <string name="passport_network_timeout">Netzwerkverbindung fehlgeschlagen. Erneut versuchen.</string>
     <string name="passport_page_load_failed">Seite öffnen fehlgeschlagen</string>
     <string name="passport_querying_phone_info">Kontodaten abrufen…</string>
     <string name="passport_reging">Konto erstellen…</string>

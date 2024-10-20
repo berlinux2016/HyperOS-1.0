@@ -511,7 +511,7 @@ Sie können nicht auf der Tastatur oder Navigationsleiste zoomen."</string>
     <string name="add_fingerprint_text">Fingerabdruck hinzufügen</string>
     <string name="add_fingerprint_toast_text">Legen Sie Ihren Finger auf den Scanner</string>
     <string name="add_front_fingerprint_instruction_msg">Fingerabdrucksensor befindet sich in der Home-Taste Ihres Geräts</string>
-    <string name="add_guest_failed">Neuen Gast erstellen fehlgeschalgen</string>
+    <string name="add_guest_failed">Neuen Gast erstellen fehlgeschlagen</string>
     <string name="add_new">Hinzufügen</string>
     <string name="add_one_text_app_name_once">Sie können jeweils ein Paket hinzufügen</string>
     <string name="add_rule">Regeln hinzufügen</string>

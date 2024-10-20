@@ -226,7 +226,7 @@
     <string name="bt_le_audio_broadcast_dialog_sub_title">Wenn Sie %1$s übertragen oder die Ausgabe ändern, wird Ihr aktueller Broadcast beendet</string>
     <string name="bt_le_audio_broadcast_dialog_switch_app">Broadcast von %1$s</string>
     <string name="bt_le_audio_broadcast_dialog_title">Broadcast von %1$s stoppen?</string>
-    <string name="bugreport_in_power">Fehlerberichtsverknüpfung</string>
+    <string name="bugreport_in_power">Fehlerbericht-Verknüpfung</string>
     <string name="bugreport_in_power_summary">Button im Powermenü anzeigen, um einen Fehlerbericht zu erstellen</string>
     <string name="cached_apps_freezer_device_default">Gerätestandard</string>
     <string name="cached_apps_freezer_disabled">Deaktiviert</string>

@@ -348,7 +348,7 @@
     <string name="reset_password_dialog_message">Du verwendest verschiedene Passworttypen für das Haupt- und Zweitprofil. Das Zweitprofil sollte denselben Passworttyp wie das Hauptprofil verwenden, damit die Verknüpfung ausgeblendet wird.</string>
     <string name="reset_password_dialog_positve_btn_title">Ändern</string>
     <string name="same_qr_code_create_space">Ein weiteres erstellen</string>
-    <string name="same_qr_code_des">Arbeitsprofil existiert bereits. Du kannst Verknüpfungen auf dem Startbildschirm und in der Benachrichtigungsleiste verwenden, um dorthin zu wechseln. Jetzt wechseln?</string>
+    <string name="same_qr_code_des">Arbeitsprofil existiert bereits. Du kannst Verknüpfungen am Startbildschirm und in der Benachrichtigungsleiste verwenden, um dorthin zu wechseln. Jetzt wechseln?</string>
     <string name="same_qr_code_enter_space">Zum Arbeitsprofil gehen</string>
     <string name="saturday_shortest">S</string>
     <string name="scanner_fingerprint">Fingerabdruck scannen…</string>

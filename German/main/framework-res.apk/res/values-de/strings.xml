@@ -1223,7 +1223,7 @@ In %2$d Sekunden erneut versuchen."</string>
     <string name="permdesc_hideOverlayWindows">Diese App kann verlangen, dass das System Überlagerungen, die von anderen Apps stammen, ausblendet.</string>
     <string name="permdesc_highSamplingRateSensors">Erlaubt der App, Sensordaten mit einer Rate von mehr als 200 Hz abzutasten</string>
     <string name="permdesc_imagesWrite">Erlaubt der App, Ihre Fotosammlung zu ändern</string>
-    <string name="permdesc_install_shortcut">Erlaubt einer App das Hinzufügen von Verknüpfungen zum Startbildschirm ohne Eingriff des Benutzers</string>
+    <string name="permdesc_install_shortcut">Erlaubt einer App das Hinzufügen von Startbildschirm-Verknüpfungen ohne Eingriff des Benutzers</string>
     <string name="permdesc_invokeCarrierSetup">Erlaubt dem Inhaber, die vom Anbieter bereitgestellte Konfigurations-App aufzurufen. Sollte für normale Apps nie benötigt werden.</string>
     <string name="permdesc_killBackgroundProcesses">Erlaubt der App, Hintergrundprozesse anderer Apps zu beenden. Das kann dazu führen, dass andere Apps nicht mehr ausgeführt werden.</string>
     <string name="permdesc_manageFingerprint">Erlaubt der App, Methoden zum Löschen und Erstellen von Fingerabdrücken aufzurufen</string>
@@ -1295,7 +1295,7 @@ In %2$d Sekunden erneut versuchen."</string>
     <string name="permdesc_systemCamera">Diese privilegierte oder System-App kann jederzeit Bilder und Videos mit einer Systemkamera aufnehmen. Erfordert, dass die android.permission.CAMERA-Berechtigung auch von der App gehalten wird</string>
     <string name="permdesc_transmitIr">Erlaubt der App, den Infrarot-Sender des Telefons zu verwenden.</string>
     <string name="permdesc_turnScreenOn">Erlaubt der App, den Bildschirm einzuschalten.</string>
-    <string name="permdesc_uninstall_shortcut">Erlaubt einer App das Entfernen von Verknüpfungen vom Startbildschirm ohne Eingriff des Benutzers</string>
+    <string name="permdesc_uninstall_shortcut">Erlaubt einer App das Entfernen von Startbildschirm-Verknüpfungen ohne Eingriff des Benutzers</string>
     <string name="permdesc_updatePackagesWithoutUserAction">Erlaubt dem Inhaber, die zuvor installierte App ohne Benutzeraktion zu aktualisieren</string>
     <string name="permdesc_useBiometric">Erlaubt der App, biometrische Hardware zur Authentisierung zu verwenden</string>
     <string name="permdesc_useDataInBackground">Diese App kann Daten im Hintergrund verwenden. Dies kann die Datennutzung erhöhen.</string>

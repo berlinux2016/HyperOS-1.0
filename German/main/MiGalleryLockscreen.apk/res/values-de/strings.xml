@@ -48,7 +48,7 @@
     <string name="add_first_cw_toast2">Einige ausgewählte Hintergründe erfolgreich hinzugefügt</string>
     <string name="add_first_cw_toast3">Hintergründe erfolgreich hinzugefügt.</string>
     <string name="add_first_cw_toast4">Hintergrundkarussell ist an. Ihre ausgewählten Hintergründe werden angezeigt.</string>
-    <string name="add_launch_hint_text">Verknüpfung zum Startbildschirm hinzufügen</string>
+    <string name="add_launch_hint_text">Startbildschirm-Verknüpfung hinzufügen</string>
     <string name="add_local_picture">Galerie</string>
     <string name="add_online_picture">Online-Bilder</string>
     <string name="add_to_cw">Zur eigenen Diashow hinzufügen</string>
@@ -890,7 +890,7 @@ dd.MM."</string>
     <string name="sst_selected_tip">Aktuell</string>
     <string name="sst_shield_tag_desc">Blockierte Kategorien verwalten</string>
     <string name="sst_shield_tag_title">Blockierte Elemente</string>
-    <string name="sst_show_lockscreen_entry_desc">Verknüpfung am Sperrbildschirm anzeigen</string>
+    <string name="sst_show_lockscreen_entry_desc">Sperrbildschirm-Verknüpfung anzeigen</string>
     <string name="sst_show_lockscreen_entry_title">Sperrbildschirm-Verknüpfung</string>
     <string name="sst_sliding_checkbox_checked">An</string>
     <string name="sst_sliding_checkbox_unchecked">Aus</string>

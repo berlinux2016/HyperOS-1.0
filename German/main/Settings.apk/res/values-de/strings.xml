@@ -2567,7 +2567,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können drahtlos aufgeruf
     <string name="debug_applications_category">Apps</string>
     <string name="debug_drawing_category">Zeichnen</string>
     <string name="debug_hw_drawing_category">Hardware-beschleunigtes Rendering</string>
-    <string name="debug_hw_overdraw">GPU-Überzeichnung debuggen</string>
+    <string name="debug_hw_overdraw">GPU-Overdraw debuggen</string>
     <string name="debug_input_category">Eingabe</string>
     <string name="debug_layout">Layoutgrenzen einblenden</string>
     <string name="debug_layout_summary">Clip-Grenzen, Ränder etc. anzeigen</string>
@@ -4990,7 +4990,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="media_output_status_track_unsupported">Dieses Medium kann hier nicht abgespielt werden</string>
     <string name="media_output_status_try_after_ad">Nach der Werbung erneut versuchen</string>
     <string name="media_output_status_unauthorized">Gerät nicht zum Abspielen zugelassen</string>
-    <string name="media_output_status_unknown_error">Auf diesem Gerät kann nicht abgespielt werden</string>
+    <string name="media_output_status_unknown_error">Wiedergabe auf diesem Gerät nicht möglich</string>
     <string name="media_output_title">Medien abspielen auf</string>
     <string name="media_transfer_default_device_name">Verbundenes Gerät</string>
     <string name="media_transfer_dock_speaker_device_name">Dock-Lautsprecher</string>
@@ -8477,8 +8477,8 @@ Alle auf diesem ^1 gespeicherten Apps werden deinstalliert und ihre Daten gelös
     <string name="talkback_ocr_title">Text erkennen</string>
     <string name="talkback_summary">Bildschirmleser in erster Linie für Blinde und Menschen mit eingeschränkten Sehvermögen</string>
     <string name="talkback_watermark_enable">TalkBack Wassrzeichen</string>
-    <string name="tap_to_sign_up">Tippen zum Anmelden</string>
-    <string name="tap_to_wake">Tippen zum Aufwecken</string>
+    <string name="tap_to_sign_up">Zum Anmelden tippen</string>
+    <string name="tap_to_wake">Zum Aufwecken tippen</string>
     <string name="tap_to_wake_summary">2x irgendwo auf den Bildschirm tippen, um das Gerät aufzuwecken</string>
     <string name="tare_actions_base_price">Aktionen (Grundpreis)</string>
     <string name="tare_actions_ctp">Aktionen (Produktionskosten)</string>
@@ -9731,7 +9731,7 @@ Alle auf diesem ^1 gespeicherten Apps werden deinstalliert und ihre Daten gelös
     <string name="wifi_no_sim_card">Keine SIM</string>
     <string name="wifi_no_user_cert_warning">Zertifikat erforderlich</string>
     <string name="wifi_non_persistent_mac_randomization">WLAN nicht-persistente MAC-Randomisierung</string>
-    <string name="wifi_non_persistent_mac_randomization_summary">Wenn dieser Modus aktiviert ist, kann sich die MAC-Adresse dieses Geräts jedes Mal ändern, wenn es sich mit einem Netzwerk verbindet, in dem die MAC-Randomisierung aktiviert ist.</string>
+    <string name="wifi_non_persistent_mac_randomization_summary">Wenn dieser Modus aktiviert ist, kann sich die MAC-Adresse dieses Geräts bei jeder Verbindung mit einem Netzwerk ändern, bei dem die MAC-Randomisierung aktiviert ist.</string>
     <string name="wifi_not_in_range">Nicht in Reichweite</string>
     <string name="wifi_not_in_range_message">Netzwerk nicht in Reichweite</string>
     <string name="wifi_notify_cmcc_connected_summary">Benachrichtigung anzeigen, wenn mit CMCC-Netzwerk verbunden</string>
@@ -9992,7 +9992,7 @@ Alle auf diesem ^1 gespeicherten Apps werden deinstalliert und ihre Daten gelös
     <string name="wifitrackerlib_private_dns_broken">Private DNS-Server nicht erreichbar</string>
     <string name="wifitrackerlib_saved_network">Gespeichert von %1$s</string>
     <string name="wifitrackerlib_tap_to_renew_subscription_and_connect">Tippen, um das Abo zu verlängern und zu verbinden</string>
-    <string name="wifitrackerlib_tap_to_sign_up">Tippen zum Anmelden</string>
+    <string name="wifitrackerlib_tap_to_sign_up">Zum Anmelden tippen</string>
     <string name="wifitrackerlib_wifi_ap_unable_to_handle_new_sta">Zugangspunkt vorübergehend voll</string>
     <string name="wifitrackerlib_wifi_band_unknown">Unbekannt</string>
     <string name="wifitrackerlib_wifi_check_password_try_again">Passwort prüfen und erneut versuchen</string>

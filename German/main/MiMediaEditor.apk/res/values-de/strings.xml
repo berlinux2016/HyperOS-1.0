@@ -145,7 +145,7 @@
     <string name="grant_permission_text">Galerie-Editor benötigt folgende Berechtigungen, um normal zu arbeiten: %s.</string>
     <string name="grant_permission_write_clipboard">Erlaube dieser App den Zugriff auf die Zwischenablage, um Elemente kopieren zu können.</string>
     <string name="help">Gerät wurde nicht gefunden?</string>
-    <string name="help_content">Falls du das benötigte Gerät nicht findest, bitte die andere Person, Mi Share einzuschalten.</string>
+    <string name="help_content">Falls du das benötigte Gerät nicht findest, bitte die andere Person, Xiaomi Share einzuschalten.</string>
     <string name="icon_content_description">Dialogsymbol</string>
     <string name="id_photo_download">Herunterladen</string>
     <string name="id_photo_download_failed_for_notwork">Herunterladen fehlgeschlagen. Netzwerkeinstellungen prüfen und erneut versuchen.</string>

@@ -41,7 +41,7 @@
     <string name="account_security">Kontosicherheit</string>
     <string name="account_security_info_pref_title">Sicherheitsinfos</string>
     <string name="account_token_expired_msg">Bestätigungscode abgelaufen, neu beginnen oder abmelden.\nDeine Konto-ID: %s</string>
-    <string name="account_token_expired_title">Authentisierung fehlgeschlagen</string>
+    <string name="account_token_expired_title">Authentifizierung fehlgeschlagen</string>
     <string name="account_user_avatar">Profilfoto</string>
     <string name="account_user_avatar_activity_not_found">Galerie öffnen fehlgeschlagen</string>
     <string name="account_user_avatar_from_album">Foto wählen</string>

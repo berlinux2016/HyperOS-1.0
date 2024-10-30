@@ -91,7 +91,7 @@
     <string name="accessibility_enter_lock_setting">Tippen, um Einstellungen für Hintergrundkarussell zu öffnen</string>
     <string name="accessibility_enter_lock_wallpaper">Tippen, um Hintergrundkarussell zu öffnen</string>
     <string name="accessibility_ethernet_disconnected">Ethernet getrennt</string>
-    <string name="accessibility_fingerprint_bouncer">Authentisierung erforderlich. Fingerabdrucksensor berühren zur Authentisierung.</string>
+    <string name="accessibility_fingerprint_bouncer">Authentifizierung erforderlich. Fingerabdrucksensor berühren zur Authentifizierung.</string>
     <string name="accessibility_fingerprint_label">Fingerabdrucksensor</string>
     <string name="accessibility_floating_button_action_double_tap_to_toggle">Umschalten</string>
     <string name="accessibility_floating_button_action_move_bottom_left">Nach unten links</string>
@@ -252,7 +252,7 @@
     <string name="biometric_dialog_confirm">Bestätigen</string>
     <string name="biometric_dialog_credential_attempts_before_wipe">Erneut versuchen. Versuch %1$d von %2$d.</string>
     <string name="biometric_dialog_credential_too_many_attempts">Zu viele Fehlversuche. \nIn %d Sekunden erneut versuchen.</string>
-    <string name="biometric_dialog_empty_space_description">Tippen, um Authentisierung abzubrechen</string>
+    <string name="biometric_dialog_empty_space_description">Tippen, um Authentifizierung abzubrechen</string>
     <string name="biometric_dialog_face_icon_description_authenticated">Gesicht authentifiziert</string>
     <string name="biometric_dialog_face_icon_description_authenticating">Suche nach Ihrem Gesicht</string>
     <string name="biometric_dialog_face_icon_description_confirmed">Bestätigt</string>

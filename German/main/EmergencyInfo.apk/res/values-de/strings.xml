@@ -383,7 +383,7 @@
     <string name="wifi_connected_low_quality">Geringe Qualität</string>
     <string name="wifi_coverage_extend">Funktion WLAN-Abdeckung erweitern aktivieren</string>
     <string name="wifi_coverage_extend_summary">WLAN-Abdeckung mit Hotspot erweitern aktivieren</string>
-    <string name="wifi_disabled_password_failure">Authentisierungsproblem</string>
+    <string name="wifi_disabled_password_failure">Authentifizierungsproblem</string>
     <string name="wifi_disconnected">Getrennt</string>
     <string name="wifi_display_certification">Wireless-Display-Zertifizierung</string>
     <string name="wifi_display_certification_summary">Optionen für Wireless-Display-Zertifizierung anzeigen</string>
@@ -418,7 +418,7 @@
     <string name="wifitrackerlib_wifi_ap_unable_to_handle_new_sta">Zugangspunkt vorübergehend voll</string>
     <string name="wifitrackerlib_wifi_check_password_try_again">Passwort prüfen und erneut versuchen</string>
     <string name="wifitrackerlib_wifi_connected_cannot_provide_internet">Mit Gerät verbunden. Internet nicht verfügbar.</string>
-    <string name="wifitrackerlib_wifi_disabled_password_failure">Authentisierungsproblem</string>
+    <string name="wifitrackerlib_wifi_disabled_password_failure">Authentifizierungsproblem</string>
     <string name="wifitrackerlib_wifi_disabled_transition_disable_indication">Mit aktuellen Sicherheitseinstellungen nicht verfügbar</string>
     <string name="wifitrackerlib_wifi_disconnected">Getrennt</string>
     <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_cannot_connect">Verbinden fehlgeschlagen. Später erneut versuchen.</string>

@@ -269,7 +269,7 @@
     <string name="geolocation_settings_page_dialog_message">Standortzugriff für diese Webseite löschen?</string>
     <string name="geolocation_settings_page_title">Standortzugriff löschen</string>
     <string name="go_supermarket_button">Los</string>
-    <string name="go_supermarket_title">Weitere Apps, höhere Geschwindigkeit und weniger Datenverbrauch im App Store</string>
+    <string name="go_supermarket_title">Weitere Apps, höhere Geschwindigkeit und weniger Datennutzung im App Store</string>
     <string name="goto_browser">Surfen</string>
     <string name="gps_prompt_context">Über Mobilfunknetz herunterladen?</string>
     <string name="gps_prompt_title">Tipps</string>

@@ -233,8 +233,8 @@
     <string name="perm_send_push_lab">Push-Nachrichten senden</string>
     <string name="permdesc_manageFingerprint">Erlaubt der App, Methoden zum Löschen und Erstellen von Fingerabdrücken aufzurufen</string>
     <string name="permdesc_manageLocationPolicy">Erlaubt der App, Standortrichtlinien zu verwalten und App-spezifische Regeln zu definieren</string>
-    <string name="permdesc_useBiometric">Erlaubt der App, biometrische Hardware zur Authentisierung zu verwenden</string>
-    <string name="permdesc_useFingerprint">Erlaubt der App, Fingerabdruck-Hardware zu Authentisierung zu verwenden</string>
+    <string name="permdesc_useBiometric">Erlaubt der App, biometrische Hardware zur Authentifizierung zu verwenden</string>
+    <string name="permdesc_useFingerprint">Erlaubt der App, Fingerabdruck-Hardware zu Authentifizierung zu verwenden</string>
     <string name="permlab_manageFingerprint">Fingerabdruck-Hardware verwalten</string>
     <string name="permlab_useBiometric">Biometrische Hardware verwenden</string>
     <string name="permlab_useFingerprint">Fingerabdruck-Hardware verwenden</string>
@@ -344,7 +344,7 @@
     <string name="turn_on_torch">Taschenlampe einschalten</string>
     <string name="under_keyguard">Bildschirm aus</string>
     <string name="unreplace_freeform_count_max">Weitere Popups öffnen fehlgeschlagen</string>
-    <string name="user_authentication_failed">AUTHENTISIERUNGSFEHLER -29-</string>
+    <string name="user_authentication_failed">AUTHENTIFIZIERUNGSFEHLER -29-</string>
     <string name="user_switching_dialog_text">Umschalten…</string>
     <string name="wallpaper_Fragrant_title">Blüte</string>
     <string name="wallpaper_geometrically_irregular_title">Abstrakte Geometrie</string>

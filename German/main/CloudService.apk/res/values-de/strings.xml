@@ -357,7 +357,7 @@
     <string name="privacy_settings">Datenschutz</string>
     <string name="quick_service_after_sale_policy_title">Richtlinie</string>
     <string name="quick_service_after_sale_service_title">Dienste</string>
-    <string name="quick_service_authenticity_check_title">Authentisierung</string>
+    <string name="quick_service_authenticity_check_title">Authentifizierung</string>
     <string name="quick_service_maintenance_price_title">Reparaturen</string>
     <string name="quick_service_title">Schnellservice</string>
     <string name="reading_status">Status laden…</string>

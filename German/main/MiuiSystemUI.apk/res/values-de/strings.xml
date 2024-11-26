@@ -1098,8 +1098,6 @@ dd.MM."</string>
     <string name="volume_dialog_title">%s-Lautstärkeregler</string>
     <string name="volume_dnd_silent">Lautstärketasten-Kürzel</string>
     <string name="volume_odi_captions_content_description">Überlagerung von Untertiteln</string>
-    <string name="volume_odi_captions_hint_disable">deaktivieren</string>
-    <string name="volume_odi_captions_hint_enable">aktivieren</string>
     <string name="volume_odi_captions_tip">Medien automatisch untertiteln</string>
     <string name="volume_ringer_hint_unmute">Stummschaltung aufheben</string>
     <string name="volume_ringer_hint_vibrate">Vibrieren</string>

@@ -5923,7 +5923,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="notification_access_detail_switch">Zugriff auf Benachrichtigung erlauben</string>
     <string name="notification_alert_title">Standard</string>
     <string name="notification_animation_style">Spezialeffekte</string>
-    <string name="notification_app_permissions">Benachrichtigungsrechet</string>
+    <string name="notification_app_permissions">Benachrichtigungsrechte</string>
     <string name="notification_app_switch_label">Alle %1$s-Benachrichtigungen</string>
     <string name="notification_assistant_security_warning_summary">Verbesserte Benachrichtigungen haben die adaptiven Android-Benachrichtigungen in Android 12 ersetzt. Diese Funktion zeigt empfohlene Aktionen und Antworten an und organisiert Ihre Benachrichtigungen. \n\nVerbesserte Benachrichtigungen können auf den Benachrichtigungsinhalt zugreifen, inkl. personenbezogener Daten wie Kontaktnamen und Nachrichten. Mit dieser Funktion können Sie auch Benachrichtigungen ablehnen oder darauf reagieren, z. B. Anrufe annehmen, und \"Nicht stören\" steuern.</string>
     <string name="notification_assistant_summary">Vorgeschlagene Aktionen, Antworten und mehr erhalten</string>

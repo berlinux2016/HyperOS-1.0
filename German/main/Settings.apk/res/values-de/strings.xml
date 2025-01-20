@@ -5198,7 +5198,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="mute">Lautlosmodus</string>
     <string name="mute_media_sound_summary">Spiele, Musik, Videos und andere Apps</string>
     <string name="mute_media_sound_title">Medien im Lautlosmodus stummschalten</string>
-    <string name="mute_music_stream">Medienton stumm schalten</string>
+    <string name="mute_music_stream">Medienton stummschalten</string>
     <string name="mute_voiceassist_stream">Sprachassistent stummschalten</string>
     <string name="mvno_match_data">MVNO-Wert</string>
     <string name="mvno_type">MVNO-Typ</string>
@@ -5258,7 +5258,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="network_4G">4G (empfohlen)</string>
     <string name="network_5G_recommended">5G (empfohlen)</string>
     <string name="network_acceleration">Netzwerkbeschleunigung</string>
-    <string name="network_alarm">Internet-Anrufe nicht stumm schalten</string>
+    <string name="network_alarm">Internet-Anrufe nicht stummschalten</string>
     <string name="network_alarm_summary">Hinweis: Einige Apps sind nicht kompatibel mit dieser Funktion. %1$s</string>
     <string name="network_alarm_summary_reg">Unterstützte Apps anzeigen</string>
     <string name="network_alarm_support_apps">Unterstützte Apps</string>
